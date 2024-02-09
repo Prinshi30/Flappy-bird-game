@@ -15,6 +15,10 @@
 
 
 ## Live-Demo-
+[Flappy-bird](https://prinshi30.github.io/Flappy-bird-game/)
+<P>
+<img alt =github src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"height="25px"/>
+</P>
 
 
 ## Screenshot-
