@@ -19,4 +19,4 @@
 
 ## Screenshot-
 
-![image](https://user-images.githubusercontent.com/48729682/222124168-70e510a9-0232-4c71-9939-cd7e8c512fcc.png)
+![image](https://github.com/Prinshi30/Flappy-bird-game/blob/e5c552ccb0255b83e45f425c64c62649203f0943/Flappy%20Bird.png)
